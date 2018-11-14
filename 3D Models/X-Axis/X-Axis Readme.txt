@@ -1,5 +1,8 @@
 The X-Axis is made of four main parts. The roller carriage, the carriage body and the mounting plate.
 
+The models are currently being worked on. I don't suggest trying to print them for yourself just yet, they will most likely change.
+Stay tuned for a video tutorial on the assembly.
+
 You need to print the roller carriage two times. 
 They mount to the bottom of the carriage body using M3 nuts and bolts, and they face in opposite direction.
 
