@@ -7,6 +7,11 @@ The current iteration is based on an Arduino UNO with a 4x A4988 Driver shield.
 Amazon Canada: https://amzn.to/2PT4EC5
 Aliexpress: https://www.aliexpress.com/item/cnc-shield-v3-engraving-machine-3D-Printer-4pcs-A4988-driver-expansion-board-UNO-R3-with-USB/32844679218.html
 
+The software utilized is GRBL, and Universal GCode sender (UGS). GRBL is flashed to the Arduino, and UGS is used to send commands to the Arduino from a connected device.
+
+GRBL: https://github.com/gnea/grbl/releases
+UGS: https://github.com/winder/Universal-G-Code-Sender
+
 
 Bill of Electronic Materials:
 
