@@ -3,7 +3,9 @@ OpenSlider is a camera slider, built with common hardware and 3D printed compone
 
 
 
+
 Example videos:
+
 https://www.instagram.com/p/BqFpmRJnVI0/
 
 https://www.instagram.com/p/BqFVQTXnpN9/
