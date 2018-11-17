@@ -1,5 +1,7 @@
 # OpenSlider
-OpenSlider is a camera slider, built with common hardware and 3D printed components. It's still a work in progress, so stay tuned!
+OpenSlider is a camera slider, built with common hardware and 3D printed components. It's still a work in progress.
+
+The goal behind OpenSlider is to create a slider system with a wide range of motion that is affordable to build, and can be used for a variety of purposes.
 
 
 
