@@ -14,8 +14,8 @@ https://www.instagram.com/p/BqJI3UbnU7M/
 https://www.instagram.com/p/Bp2GQGXHDDo/
 
 
-![Openslider 0.1 X-Axis Assembly](https://imgur.com/V4a86Ly)
+![Openslider 0.1 X-Axis Assembly](https://i.imgur.com/V4a86Ly.png)
 
-![Openslider 0.1 X+Y Assembly](https://imgur.com/O4zkEdA)
+![Openslider 0.1 X+Y Assembly](https://i.imgur.com/O4zkEdA.png)
 
-![Openslider 0.1 Full Assembly](https://imgur.com/E903fqt)
+![Openslider 0.1 Full Assembly](https://i.imgur.com/E903fqt.png)
