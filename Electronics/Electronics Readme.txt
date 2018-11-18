@@ -1,11 +1,17 @@
-OpenSlider utilizes GRBL1.1 for motion control. 
+OpenSlider utilizes GRBL1.1 for motion control.
 
-There are quite a few controller boards available that you can use to make your own slider! Any 4-axis controller that supports GRBL will work.
+There are quite a few controller boards available that you can use to make your own slider! The current iteration is based on an Arduino UNO with a 4x A4988 Driver shield to keep costs down.
 
-The current iteration is based on an Arduino UNO with a 4x A4988 Driver shield.
+These boards will also work fine:
 
-Amazon Canada: https://amzn.to/2PT4EC5
-Aliexpress: https://www.aliexpress.com/item/cnc-shield-v3-engraving-machine-3D-Printer-4pcs-A4988-driver-expansion-board-UNO-R3-with-USB/32844679218.html
+Arduino Mega + Ramps Combo
+MKS Gen
+Rambo 1.1a
+
+
+It is possible to also use other stepper drivers instead of the standard A4988. For example, you could upgrade to the TMC2130 for interpolated microstepping and quieter operation. If you are going to use audio from a device mounted directly to the slider, I suggest using TMC2130 drivers to reduce motor noise. I chose A4988 due to the low cost.
+
+Three NEMA 17 stepper motors and one 28BYJ-48 motor are used. Virtually any NEMA 17 motors will work, as long as they are not extremely low power, or extremely overpowered. I suggest NEMA motors rated to at least 20Ncm.
 
 The software utilized is GRBL, and Universal GCode sender (UGS). GRBL is flashed to the Arduino, and UGS is used to send commands to the Arduino from a connected device.
 
