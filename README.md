@@ -15,7 +15,7 @@ https://www.instagram.com/p/Bp2GQGXHDDo/
 
 OpenSlider 2040 X-Axis:
 
-![OpenSlider 2040 XAxis](https://i.imgur.com/sNZZeGS.gifv)
+![OpenSlider 2040 XAxis](https://i.imgur.com/YWe7ojH.png)
 
 
 
