@@ -13,9 +13,12 @@ https://www.instagram.com/p/BqJI3UbnU7M/
 
 https://www.instagram.com/p/Bp2GQGXHDDo/
 
+OpenSlider 2040 X-Axis:
 
-![Openslider 0.1 X-Axis Assembly](https://i.imgur.com/V4a86Ly.png)
+![OpenSlider 2040 XAxis](https://i.imgur.com/YWe7ojH.png)
 
-![Openslider 0.1 X+Y Assembly](https://i.imgur.com/O4zkEdA.png)
+
+
+Openslider with 2020 X-Axis:
 
 ![Openslider 0.1 Full Assembly](https://i.imgur.com/E903fqt.png)
