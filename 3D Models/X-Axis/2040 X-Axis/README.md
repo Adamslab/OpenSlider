@@ -7,7 +7,7 @@ Parts breakdown:
 
 https://i.imgur.com/sNZZeGS.mp4
 
-!(Exploded View of X-Axis Assembly)[https://i.imgur.com/YWe7ojH.png]
+https://i.imgur.com/YWe7ojH.png
 
 
 Top to bottom:
