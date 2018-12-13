@@ -3,6 +3,9 @@ OpenSlider utilizes an Arduino UNO + GRBL1.1 Shield for motion control.
 This is the current control board setup used:
 http://osoyoo.com/2017/04/07/arduino-uno-cnc-shield-v3-0-a4988/
 
+GRBL:
+https://github.com/gnea/grbl/wiki
+
 I purchased mine through Aliexpress, though it is a widely available setup. You can find this Uno + CNC shield kit on most online retailers, like Amazon, eBay, etc.
 
 There are many other boards available that will accomplish the same thing. The reason I chose the UNO + 4x A4988 setup is because it is extremely affordable, simple to use and it's widely available.
