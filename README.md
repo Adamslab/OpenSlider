@@ -24,3 +24,7 @@ OpenSlider 2040 X-Axis:
 Openslider with 2020 X-Axis:
 
 ![Openslider 0.1 Full Assembly](https://i.imgur.com/E903fqt.png)
+
+
+Interested in supporting the development of OpenSlider?
+Patreon: https://www.patreon.com/adamslaboratory
