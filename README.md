@@ -6,7 +6,7 @@ The goal behind OpenSlider is to create a motorized camera slider system with a 
 
 Example videos:
 
-https://www.instagram.com/p/BqFpmRJnVI0/
+OpenSlider 2020 V0.1 - https://www.instagram.com/p/BqFpmRJnVI0/
 
 https://www.instagram.com/p/BqFVQTXnpN9/
 
