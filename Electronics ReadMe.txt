@@ -12,6 +12,11 @@ It is possible to also use other stepper drivers instead of the standard A4988. 
 
 Three NEMA 17 stepper motors and one 28BYJ-48 motor are used. Virtually any NEMA 17 motors will work, as long as they are not extremely low power, or extremely overpowered. I suggest NEMA motors rated to at least 20Ncm.
 
+The software utilized is GRBL, and Universal GCode sender (UGS). GRBL is flashed to the Arduino, and UGS is used to send commands to the Arduino from a connected device.
+
+GRBL: https://github.com/gnea/grbl/releases
+UGS: https://github.com/winder/Universal-G-Code-Sender
+
 
 Bill of Electronic Materials:
 

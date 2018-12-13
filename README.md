@@ -1,17 +1,19 @@
 # OpenSlider
-OpenSlider is a camera slider, built with common hardware and 3D printed components. It's still a work in progress, and things are constantly changing.
+OpenSlider is a camera slider, built with common hardware and 3D printed components. It's still a work in progress, and things are constantly changing. I do not suggest trying to print or assemble the slider just yet, since the design is still being refined.
 
-The goal behind OpenSlider is to create a motorized camera slider system with a wide range of motion that is affordable, adaptable and approachable.
+The goal behind OpenSlider is to create a motorized camera slider system with a wide range of motion and functionality that is also affordable.
+
 
 Example videos:
 
-https://www.instagram.com/p/BqFpmRJnVI0/
+OpenSlider 2020 V0.1 - https://www.instagram.com/p/BqFpmRJnVI0/
 
 https://www.instagram.com/p/BqFVQTXnpN9/
 
 https://www.instagram.com/p/BqJI3UbnU7M/
 
 https://www.instagram.com/p/Bp2GQGXHDDo/
+
 
 OpenSlider 2040 X-Axis:
 
