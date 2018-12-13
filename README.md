@@ -16,7 +16,7 @@ Example videos:
 
 
 OpenSlider 2040 X-Axis:
-[OpenSlider 2040 XAxis](https://i.imgur.com/YWe7ojH.png)
+![OpenSlider 2040 XAxis](https://i.imgur.com/YWe7ojH.png)
 
 
 
