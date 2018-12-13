@@ -24,7 +24,11 @@ UGS: https://github.com/winder/Universal-G-Code-Sender
 Bill of Electronic Materials:
 
 3x Nema 17 Stepper Motor
+
 1x 28BYJ-48 (Modified to be a Unipolar motor)
+
 1x Arduino UNO + 4 Axis CNC Shield
+
 4x A4988 Stepper Motor Driver
+
 1x 12V 5A Power Supply
