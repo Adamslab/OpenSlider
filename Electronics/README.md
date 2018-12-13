@@ -3,8 +3,7 @@ OpenSlider utilizes an Arduino UNO + GRBL1.1 Shield for motion control.
 This is the current control board setup used:
 http://osoyoo.com/2017/04/07/arduino-uno-cnc-shield-v3-0-a4988/
 
-GRBL:
-https://github.com/gnea/grbl/wiki
+
 
 I purchased mine through Aliexpress, though it is a widely available setup. You can find this Uno + CNC shield kit on most online retailers, like Amazon, eBay, etc.
 
@@ -17,8 +16,11 @@ Three NEMA 17 stepper motors and one 28BYJ-48 motor are used. Virtually any NEMA
 
 The software utilized is GRBL, and Universal GCode sender (UGS). GRBL is flashed to the Arduino, and UGS is used to send commands to the Arduino from a connected device.
 
-GRBL: https://github.com/gnea/grbl/releases
+
+GRBL: https://github.com/gnea/grbl/wiki
+
 UGS: https://github.com/winder/Universal-G-Code-Sender
+
 
 
 Bill of Electronic Materials:
