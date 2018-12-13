@@ -12,9 +12,9 @@ Bearings used are generic 608RS 8x22x7 bearings. 8mm inner diameter, 22mm outer 
 The kind that you'd find on a skateboard.
 
 Something like these:
-[https://amzn.to/2UIY3te](Amazon Link 1) - [https://amzn.to/2UHuusg](Amazon Link 2)
+[Amazon Link 1](https://amzn.to/2UIY3te) - [Amazon Link 2](https://amzn.to/2UHuusg)
 
 
 ######Roller Carriage Wheels
 
-The wheels used for the X-Axis assembly are [https://www.aliexpress.com/item/21-5x5x7mm-5-21-5-7mm-Delrin-R-style-V-wheel-kit-nylon-plastic-wheel-with/32866020536.html](21.5mm OD V-Slot wheels)
+The wheels used for the X-Axis assembly are [21.5mm OD V-Slot wheels](https://www.aliexpress.com/item/21-5x5x7mm-5-21-5-7mm-Delrin-R-style-V-wheel-kit-nylon-plastic-wheel-with/32866020536.html).
