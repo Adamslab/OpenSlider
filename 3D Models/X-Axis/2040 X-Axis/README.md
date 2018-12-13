@@ -12,6 +12,8 @@ https://i.imgur.com/YWe7ojH.png
 
 Top to bottom:
 
+Bearing Mount Screw (Not Shown, yet)
+
 5x M3 Bolts (Not shown, yet. Fastens the bearing mount to the motor mounting plate)
 
 Bearing Mounting Plate (Not shown, yet. Images need to be updated)
