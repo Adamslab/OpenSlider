@@ -1,32 +1,46 @@
+## 2040 X-Axis
+
+###### This document is incomplete.
+
 These are the models for the 2040 X-Axis. They are designed to work with a 2040 Aluminum profile.
 
 
+## Model Descriptions:
 
-Parts breakdown (Needs to be updated):
+###### Idler Pulley End Mount
+
+This attaches to the end of a 2040 profile, and provides a spot to attach an idler pulley for the X-Axis.
+
+###### Endcap X-Axis Motor Mount
+
+This attaches to the end of a 2040 profile, opposite to the idler pulley end mount. It provides a place to mount the NEMA-17 motor that drives the X-Axis.
+
+###### Roller Carriage Double
+
+The roller carriage has 6 wheels, and slides along a 2040 aluminum extrusion to act as the base of the X-Axis. An M3 bolt/nut can be used to adjust tension on the 2040 rail.
+
+###### Roller Carriage Belt Mount
+
+The belt mount attaches to the top of the roller carriages using M3 bolts/nuts. A GT2 timing belt fits into the slots inside of the X-Axis mount.
+
+###### Motor Mounting Plate
+
+A NEMA-17 motor attaches to the motor mounting plate. The motor mounting plate goes on top of the roller carriage belt mount.
+
+###### Motor Mounting Plate Bearing Mount
+
+A very long-winded name. Two 608RS bearings slide onto the shaft on the bearing mount. The bearing mount screw is used to secure the bearings.
+
+The bearing mount connects to the top of the X-Axis motor mounting plate.
 
 
-https://i.imgur.com/sNZZeGS.mp4
+###### Bearing Mount Screw
 
-https://i.imgur.com/YWe7ojH.png
+This screw is used to secure the 608RS bearings on the X-Axis assembly. 
+
+After the bearings are placed on the bearing mounting plate, this bolt is screwed into the bearing mounting plate.
 
 
-Top to bottom:
 
-Bearing Mount Screw (Not Shown, yet)
 
-5x M3 Bolts (Not shown, yet. Fastens the bearing mount to the motor mounting plate)
-
-Bearing Mounting Plate (Not shown, yet. Images need to be updated)
-
-4x M3 Bolts (Fastens mounting plate to carriage mount)
-
-Motor Mounting Plate (Old version shown. Needs to be updated)
-
-Carriage Mount
-
-6x M6 Bolts (Fastens wheels to roller carriage)
-
-Roller carriage (Require 1x Double carriage, or 2x single carriage)
-
-6x Wheels ( 21.5mm Outer Diameter ) - 
-https://www.aliexpress.com/item/10-pcs-lot-Delta-3d-printer-Plastic-pulley-21-5mm-OD-5mm-ID-10-pcs-set/32858587833.html
+More information to come.
