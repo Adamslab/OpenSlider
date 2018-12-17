@@ -7,6 +7,14 @@ These are the models for the 2040 X-Axis. They are designed to work with a 2040 
 
 ## Model Descriptions:
 
+###### Idler Pulley End Mount
+
+This attaches to the end of a 2040 profile, and provides a spot to attach an idler pulley for the X-Axis.
+
+###### Endcap X-Axis Motor Mount
+
+This attaches to the end of a 2040 profile, opposite to the idler pulley end mount. It provides a place to mount the NEMA-17 motor that drives the X-Axis.
+
 ###### Roller Carriage Double
 
 The roller carriage has 6 wheels, and slides along a 2040 aluminum extrusion to act as the base of the X-Axis. An M3 bolt/nut can be used to adjust tension on the 2040 rail.
