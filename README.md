@@ -17,14 +17,5 @@ OpenSlider is a motorized camera slider with multiple axis of rotation, built us
 [OpenSlider V0.1 Timelapse](https://www.instagram.com/p/Bp2GQGXHDDo/)
 
 
-###### OpenSlider 2040 X-Axis:
-![OpenSlider 2040 XAxis](https://i.imgur.com/YWe7ojH.png)
-
-
-
-###### Openslider with 2020 X-Axis:
-[Openslider 0.1 Full Assembly](https://i.imgur.com/E903fqt.png)
-
-
-Interested in supporting the development of OpenSlider?
-Patreon: https://www.patreon.com/adamslaboratory
+###### Interested in supporting the development of OpenSlider?
+[Patreon](https://www.patreon.com/adamslaboratory)
