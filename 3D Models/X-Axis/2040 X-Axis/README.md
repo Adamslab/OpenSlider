@@ -1,23 +1,15 @@
 ## 2040 X-Axis
 
-###### This document is incomplete.
+These are the models for the 2040 X-Axis. They are designed to run along a 2040 V-Slot Aluminum profile.
 
-These are the models for the 2040 X-Axis. They are designed to work with a 2040 Aluminum profile.
+![](https://giant.gfycat.com/WholeThornyAntbear.gif)
 
 
 ## Model Descriptions:
 
-###### Idler Pulley End Mount
+###### Roller Carriage
 
-This attaches to the end of a 2040 profile, and provides a spot to attach an idler pulley for the X-Axis.
-
-###### Endcap X-Axis Motor Mount
-
-This attaches to the end of a 2040 profile, opposite to the idler pulley end mount. It provides a place to mount the NEMA-17 motor that drives the X-Axis.
-
-###### Roller Carriage Double
-
-The roller carriage has 6 wheels, and slides along a 2040 aluminum extrusion to act as the base of the X-Axis. An M3 bolt/nut can be used to adjust tension on the 2040 rail.
+The roller carriage has 6 wheels that slide along a 2040 aluminum extrusion. The wheels used are 21.5mm OD V-Slot wheels. Use M5 bolts and nuts to connect the roller wheels to the roller carriage. Two M3 bolts can be used to adjust tension on the 2040 rail.
 
 ###### Roller Carriage Belt Mount
 
@@ -25,22 +17,24 @@ The belt mount attaches to the top of the roller carriages using M3 bolts/nuts. 
 
 ###### Motor Mounting Plate
 
-A NEMA-17 motor attaches to the motor mounting plate. The motor mounting plate goes on top of the roller carriage belt mount.
+A NEMA-17 motor attaches to the motor mounting plate. The motor mounting plate goes on top of the belt mount.
 
-###### Motor Mounting Plate Bearing Mount
+###### Bearing Mount
 
-A very long-winded name. Two 608RS bearings slide onto the shaft on the bearing mount. The bearing mount screw is used to secure the bearings.
+The bearing mount goes on top of the X-Axis motor mounting plate. Two 608RS bearings slide onto the shaft on the bearing mount. An M5x10mm bolt with a washer is gently screwed into the shaft to secure the bearings.
 
-The bearing mount connects to the top of the X-Axis motor mounting plate.
+###### Generic Mounting Plate
 
-
-###### Bearing Mount Screw
-
-This screw is used to secure the 608RS bearings on the X-Axis assembly. 
-
-After the bearings are placed on the bearing mounting plate, this bolt is screwed into the bearing mounting plate.
+The generic mounting plate can instead of the motor mounting plate if you only desire X-Axis motion. There is a hole centered on the mounting plate that is suitable for an M5 bolt, so you can attach a camera or other hardware of your choice.
 
 
+###### Idler Pulley End Mount
+
+This attaches to the end of a 2040 profile, and provides a spot to attach an idler pulley for the X-Axis belt.
+
+###### Endcap X-Axis Motor Mount
+
+This attaches to the end of a 2040 profile, opposite to the idler pulley end mount. It provides a place to mount the NEMA-17 motor that drives the X-Axis.
 
 
 More information to come.

@@ -1,28 +1,21 @@
 ## OpenSlider
-OpenSlider is a camera slider, built with common hardware and 3D printed components. It's still a work in progress, and things are constantly changing. I do not suggest trying to print or assemble the slider just yet, since the design is still being refined.
+OpenSlider is a motorized camera slider with multiple axis of rotation, built using common hardware and 3D printed components.
 
-The goal behind OpenSlider is to create a motorized camera slider system with a wide range of motion and functionality that is also affordable.
+![V0.2 Assembly](https://giant.gfycat.com/RareInformalEastsiberianlaika.gif)
 
 
 ###### Example videos:
 
+[OpenSlider 2040 V0.2 Timelapse](https://www.instagram.com/p/Bsbb4AUHvLy/)
+
 [OpenSlider 2020 V0.1](https://www.instagram.com/p/BqFpmRJnVI0/)
 
-[OpenSlider Timelapse 1](https://www.instagram.com/p/BqFVQTXnpN9/)
+[OpenSlider V0.1 Timelapse](https://www.instagram.com/p/BqFVQTXnpN9/)
 
-[OpenSlider Timelapse 2](https://www.instagram.com/p/BqJI3UbnU7M/)
+[OpenSlider V0.1 Timelapse](https://www.instagram.com/p/BqJI3UbnU7M/)
 
-[OpenSlider Timelapse 3](https://www.instagram.com/p/Bp2GQGXHDDo/)
-
-
-###### OpenSlider 2040 X-Axis:
-![OpenSlider 2040 XAxis](https://i.imgur.com/YWe7ojH.png)
+[OpenSlider V0.1 Timelapse](https://www.instagram.com/p/Bp2GQGXHDDo/)
 
 
-
-###### Openslider with 2020 X-Axis:
-[Openslider 0.1 Full Assembly](https://i.imgur.com/E903fqt.png)
-
-
-Interested in supporting the development of OpenSlider?
-Patreon: https://www.patreon.com/adamslaboratory
+###### Interested in supporting the development of OpenSlider?
+[Patreon](https://www.patreon.com/adamslaboratory)
