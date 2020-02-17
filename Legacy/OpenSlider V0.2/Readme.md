@@ -1,3 +1,6 @@
+![V0.2 Assembly](https://giant.gfycat.com/RareInformalEastsiberianlaika.gif)
+
+
 ## 2040 X-Axis
 
 These are the models for the 2040 X-Axis. They are designed to run along a 2040 V-Slot Aluminum profile.
