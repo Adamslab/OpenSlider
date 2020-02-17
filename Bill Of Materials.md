@@ -5,17 +5,24 @@ Some of the links below are affiliate links. You can purchase the same or simila
 An exact list of the nuts/bolts required is coming in the future.
 4x M5x30mm Bolts
 4x M5 Nuts
-4x M3 T-Nuts for extrusions
+4x M3 T-Nuts
 M3 bolts + nuts
+https://s.click.aliexpress.com/e/_sIpZ55
+
+You also need at least 3 M3x30 bolts to assemble the x-carriage
 
 ## Frame:
-The X-Axis runs along a V-Sot 2040 aluminum extrusion. 
+The X-Axis runs along a V-Sot 2040 aluminum extrusion.
 The longer the extrusion, the more travel distance.
+The sliderassembly takes approximatly 120mm off of the X-Axis.
+So a 500mm extrusion will give you approximately 380mm of travel.
+https://s.click.aliexpress.com/e/_sMJLWJ
+
 The Y and Z axis use printed components and fasteners.
 
 ## Roller Carriage Wheels
 3x Option B or similar roller wheels are used for the X-Axis roller carriage
-https://www.aliexpress.com/item/32620017831.html
+https://s.click.aliexpress.com/e/_rJTbgF
 
 ## GT2 Belt
 GT2 6mm belt is used.
@@ -23,7 +30,10 @@ A single length of belt is used for the X-Axis.
 The length of belt you will need for the X-Axis is approximately double the length of your extrusion plus 50mm.
 
 The Y-Axis will use a 250mm continuous belt loop. The tensioner will allow for 248-258mm belt loops.
-https://www.aliexpress.com/item/4000307083530.html
+https://s.click.aliexpress.com/e/_rQ35Lp
+https://s.click.aliexpress.com/e/_sOoTyx
+
+
 
 ## Bearings:
 Bearings used are 608RS. 8mm inner diameter, 22mm outer diameter, 7mm thick.
@@ -41,10 +51,22 @@ https://s.click.aliexpress.com/e/_sN61d8
 SKR 1.3 without LCD:
 https://s.click.aliexpress.com/e/_sc29Y2
 
+## Motors
+Nema 17 motors are used. One motor is needed for each axis. 
+You do not need exceptionally powerful motors, 28ncm of holding torque is fine.
+https://s.click.aliexpress.com/e/_sd4SLV
 
 
+
+
+
+
+
+---------------------------------------------
+----
 ----------------------------------------------
-
+----
+----------------------------------------------
 
 
 # OpenSlider Legacy (Older Versions)
