@@ -1,5 +1,4 @@
 # Materials List
-Some of the links below are affiliate links. You can purchase the same or similar equipment from many places.
 
 ## Nuts/Bolts:
 An exact list of the nuts/bolts required is coming in the future.
