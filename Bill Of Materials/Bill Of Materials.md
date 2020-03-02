@@ -4,13 +4,15 @@
 
 An exact list of the nuts/bolts required is coming in the future.
 * 4x M5x30mm Bolts
+* 3x M3x30mm Bolts
 * 4x M5 Nuts
 * 4x M3 T-Nuts
 * M3 bolts + nuts
+* 1x Idler Pulley (For X-Axis)
 
 https://s.click.aliexpress.com/e/_sIpZ55
 
-You also need at least 3 M3x30 bolts to assemble the x-carriage
+https://s.click.aliexpress.com/e/_dZw7ybJ
 
 ## Frame:
 
