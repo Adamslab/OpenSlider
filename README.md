@@ -1,5 +1,8 @@
 ## OpenSlider
-OpenSlider is a motorized camera slider with multiple axis of rotation, built using common hardware and 3D printed components.
+OpenSlider is a modular camera slider system with multiple axis of movement.
+
+OpenSlider is easily 3D printed, and assembled using commonly available hardware.
+
 
 ###### Example videos:
 
