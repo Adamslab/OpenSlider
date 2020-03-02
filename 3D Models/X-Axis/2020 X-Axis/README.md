@@ -1,1 +1,0 @@
-These models are for the 2020 X-Axis. It's designed to work with a 2020 aluminum profile. This X-Axis design is currently obsolete and needs to be updated to be compatible with the most recent versions.
