@@ -28,9 +28,9 @@ https://s.click.aliexpress.com/e/_sMJLWJ
 The Y and Z axis use printed components and M3 fasteners.
 
 ## Roller Carriage Wheels
-Wheels will depend on your type of extrusion.
+Wheels will depend on your style of extrusion.
 
-For T-Slot 3x Option B or similar roller wheels are used: https://s.click.aliexpress.com/e/_rJTbgF
+3x Option B or similar roller wheels are used for mine: https://s.click.aliexpress.com/e/_rJTbgF
 
 ## GT2 Belt
 GT2 6mm belt is used.
