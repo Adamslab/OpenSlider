@@ -8,11 +8,9 @@ An exact list of the nuts/bolts required is coming in the future.
 * 4x M5 Nuts
 * 4x M3 T-Nuts
 * M3 bolts + nuts
-* 1x Idler Pulley (For X-Axis)
+* 1x Idler Pulley (For X-Axis) - https://s.click.aliexpress.com/e/_dZw7ybJ
 
 https://s.click.aliexpress.com/e/_sIpZ55
-
-https://s.click.aliexpress.com/e/_dZw7ybJ
 
 ## Frame:
 
