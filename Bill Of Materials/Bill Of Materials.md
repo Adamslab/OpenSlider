@@ -5,22 +5,19 @@
 An exact list of the nuts/bolts required is coming in the future.
 * 4x M5x30mm Bolts
 * 3x M3x30mm Bolts
-* 4x M5 Nuts
+* 4x M5 Hex Nuts
 * 4x M3 T-Nuts
 * M3 bolts + nuts
-* 1x Idler Pulley (For X-Axis) - https://s.click.aliexpress.com/e/_dZw7ybJ
+* 1x GT2 Idler Pulley - 3mm Bore (Toothed)(For X-Axis) - https://s.click.aliexpress.com/e/_dZw7ybJ
 
 https://s.click.aliexpress.com/e/_sIpZ55
 
 ## Frame:
 
-The X-Axis runs along a V-Sot 2040 aluminum extrusion.
+The X-Axis runs along a V-Sot 2040 aluminum extrusion. The longer the extrusion, the more travel distance.
 
-The longer the extrusion, the more travel distance.
+The slider assembly takes approximatly 120mm of X-Axis travel. So a 500mm extrusion will give you approximately 380mm of travel.
 
-The sliderassembly takes approximatly 120mm off of the X-Axis.
-
-So a 500mm extrusion will give you approximately 380mm of travel.
 https://s.click.aliexpress.com/e/_sMJLWJ
 
 The Y and Z axis use printed components and M3 fasteners.
