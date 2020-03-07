@@ -7,10 +7,8 @@ An exact list of the nuts/bolts required is coming in the future.
 * 3x M3x30mm Bolts
 * 4x M5 Hex Nuts
 * 4x M3 T-Nuts
-* M3 bolts + nuts
+* M3 bolts + nuts - https://s.click.aliexpress.com/e/_sIpZ55
 * 1x GT2 Idler Pulley - 3mm Bore (Toothed)(For X-Axis) - https://s.click.aliexpress.com/e/_dZw7ybJ
-
-https://s.click.aliexpress.com/e/_sIpZ55
 
 ## Frame:
 
