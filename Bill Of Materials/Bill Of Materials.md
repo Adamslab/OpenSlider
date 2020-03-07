@@ -63,6 +63,11 @@ SKR 1.3 without LCD:
 
 https://s.click.aliexpress.com/e/_sc29Y2
 
+The newer SKR 1.4 would also work just fine.  Really any 3D printer control board will work just fine, you will just have to make changes to compensate if you use a different control board.
+
+You can also choose other stepper motor drivers, if you do not want features like sensorless homing or 1/256 microstepping. 
+
+The A4988 are low cost with reliable performance and 1/16 stepping. DRV8825 offer high current capability and 1/32 stepping. TMC2130 have sensorless homing, stealthchop and 1/256 stepping. TMC2209 have high current capability, improved sensorless homing and stealhchop and 1/256 stepping. There are lots of other options out there, too. The choice is up to you and your budget.
 
 
 ## Motors
@@ -72,7 +77,10 @@ You do not need exceptionally powerful motors, 28ncm of holding torque is fine.
 https://s.click.aliexpress.com/e/_sd4SLV
 
 
+## Software
 
+The camera slider runs on a branch of Marlin Bugfix 2.0. Marlinfw.org
+The version of Marlin included with OpenSlider is configured for the SKR1.3 and TMC2130 drivers.
 
 
 
