@@ -10,7 +10,7 @@ From bottom to top:
 
 ## X-Axis Roller Carriage
 
-![1. X-Axis Roller Carriage](https://imgur.com/a/0spigFE)
+![1. X-Axis Roller Carriage](https://i.imgur.com/8LcjthJ.png)
 
 
 ## X-Axis Feet
