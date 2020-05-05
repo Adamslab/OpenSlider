@@ -8,7 +8,9 @@ From bottom to top:
 3. Motor Mount (Yellow)
 4. Bearing Mount (Grey)
 
+## X-Axis Roller Carriage
 
+![1. X-Axis Roller Carriage](https://imgur.com/a/0spigFE)
 
 
 ## X-Axis Feet
