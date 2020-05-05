@@ -1,1 +1,1 @@
-STEP files based on request.
+STEP files for the X-Axis assembly.
