@@ -18,8 +18,6 @@ An exact list of required fasteners is coming in the future.
 * M3 bolts + nuts - https://s.click.aliexpress.com/e/_sIpZ55
 * 1x GT2 Idler Pulley - 3mm Bore (Toothed)(For X-Axis) - https://s.click.aliexpress.com/e/_dZw7ybJ
 
-https://s.click.aliexpress.com/e/_sIpZ55
-
 ## Frame:
 
 The X-Axis runs along a V-Sot 2040 aluminum extrusion. The longer the extrusion, the more travel distance you will have.
