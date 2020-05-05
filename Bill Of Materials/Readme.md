@@ -1,41 +1,49 @@
 # Materials List
 
+## Printing
+
+PETG or ABS is reccomended. The tensioning mechanisms and motor mount can warp over time if printed with PLA.
+
 ## Nuts/Bolts:
 
-An exact list of the nuts/bolts required is coming in the future.
-* 4x M5x30mm Bolts
-* 4x M5 Nuts
+An exact list of required fasteners is coming in the future.
+
+
+* 5x M5x30mm Bolts
+* 3x M3x30mm Bolts
+* 1x M3x15mm Bolt
+* 5x M5 Nuts
 * 4x M3 T-Nuts
-* M3 bolts + nuts
+* Assorted M3 bolts + nuts
 
 https://s.click.aliexpress.com/e/_sIpZ55
 
-You also need at least 3 M3x30 bolts to assemble the x-carriage
-
 ## Frame:
 
-The X-Axis runs along a V-Sot 2040 aluminum extrusion.
+The X-Axis runs along a V-Sot 2040 aluminum extrusion. The longer the extrusion, the more travel distance you will have.
 
-The longer the extrusion, the more travel distance.
-
-The sliderassembly takes approximatly 120mm off of the X-Axis.
+The slider assembly takes approximatly 120mm off of the travel distance.
 
 So a 500mm extrusion will give you approximately 380mm of travel.
+
 https://s.click.aliexpress.com/e/_sMJLWJ
 
-The Y and Z axis use printed components and M3 fasteners.
+
 
 ## Roller Carriage Wheels
-Wheels will depend on your type of extrusion.
 
-For T-Slot 3x Option B or similar roller wheels are used: https://s.click.aliexpress.com/e/_rJTbgF
+3x V-Slot or T-Slot roller wheels are used for the X-Axis roller carriage.
+
+For T-Slot rail,  3x Option B or similar roller wheels are used: https://s.click.aliexpress.com/e/_rJTbgF
+
+
 
 ## GT2 Belt
 GT2 6mm belt is used.
-The length of belt you will need for the X-Axis is double the length of the extrusion that you're using for the X-Axis.
+The length of belt you will need for the X-Axis is double the length of the extrusion that you're using for the X-Axis plus 50mm.
 So for a 500mm extrusion, you need 1050mm of belt to have enough.
 
-The Y-Axis will use a 250mm continuous belt loop. The tensioner will allow for 248-258mm belt loops.
+The Y-Axis and Z-Axis use 250mm GT2 belt loops. The tensioning system will work with 250mm to 264mm long belt loops.
 
 https://s.click.aliexpress.com/e/_rQ35Lp
 
@@ -69,10 +77,14 @@ https://s.click.aliexpress.com/e/_sc29Y2
 
 
 ## Motors
-Nema 17 motors are used. One motor is needed for each axis. 
-You do not need exceptionally powerful motors, 28ncm of holding torque is fine.
+Nema 17 motors are used. One motor is needed for each axis. If you just want X and Y motion, you will only need two motors. 
+You do not need very powerful motors for most use cases. 
+
+If you expect to do vertical movements with a heavy DSLR, or rapid back and forth movements with high acceleration, invest in more powerful motors. For a USB camera, cellphone, action camera or PiCamera you can get away with pancake motors.
 
 https://s.click.aliexpress.com/e/_sd4SLV
+
+
 
 
 
