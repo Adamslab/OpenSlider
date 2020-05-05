@@ -1,6 +1,11 @@
-Basic readme for the Y-Axis Components.
+There are two mounting systems for the Y-Axis.
 
-The Y-Axis is made of three primary components. The Y-Axis Mounting Plate, the Y-Axis Gear and the Y-Axis Mounting Plate Bolt.
+One provides support for various mounting plates and a 1/4" bolt. It doesn't support the Z-Axis.
+
+![](https://i.imgur.com/EbncEgQ.jpg)
+
+
+The other is designed to support a third axis. It is still a work in progress.
 
 ![](https://giant.gfycat.com/MilkyLimitedIndochinahogdeer.gif)
 

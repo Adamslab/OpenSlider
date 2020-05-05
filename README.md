@@ -1,11 +1,11 @@
 ## OpenSlider
-OpenSlider is a modular camera slider system with multiple axis of movement.
-The goal of OpenSlider is to provide a robust camera slider system that is heavily customizable, at a low cost.
+OpenSlider is a motorized slider with multiple axis of rotation, built using common hardware and 3D printed components.
 
-OpenSlider is easily 3D printed, and assembled using commonly available hardware.
-
+The 3D printed components are designed with ease of printing and assembly in mind. No support material needed. PETG is reccomended.
 
 ###### Example videos:
+
+(Older slider versions. New videos to come)
 
 [OpenSlider 2040 V0.2 Timelapse](https://www.instagram.com/p/Bsbb4AUHvLy/)
 
@@ -18,6 +18,8 @@ OpenSlider is easily 3D printed, and assembled using commonly available hardware
 [OpenSlider V0.1 Timelapse](https://www.instagram.com/p/Bp2GQGXHDDo/)
 
 ###### Interested in supporting the development of OpenSlider?
-Join the OpenSlider discord!  https://discord.gg/ZqSq8cH
+Join the discord! The most up to date files are available on the discord channel, and you can contact me through there.
+https://discord.gg/khKH3Cx
 
+All feedback, support and criticism is greatly appreciated.
 [Patreon](https://www.patreon.com/adamslaboratory)

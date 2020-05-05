@@ -2,18 +2,28 @@
 
 ![V0.3 Carriage Assembly](https://giant.gfycat.com/WickedColorlessHochstettersfrog.gif)
 
-From top to bottom:
-* Bearing Mount (Grey)
-* Motor Mount (Yellow)
-* Belt Mount (Red)
-* Roller Carriage (Grey)
+From bottom to top:
+1. Roller Carriage (Grey)
+2. Belt Mount (Red)
+3. Motor Mount (Yellow)
+4. Bearing Mount (Grey)
 
+
+## X-Axis Roller Carriage
+
+![1. X-Axis Roller Carriage](https://i.imgur.com/8LcjthJ.png)
+
+![Wheels on Roller Carriage](https://i.imgur.com/8PWVwMF.png)
+
+
+## X-Axis Belt Mount
+
+![2. X-Axis Belt Mount](https://i.imgur.com/64v6RcK.png)
+
+![Belt Mount](https://i.imgur.com/yMhgfwD.png)
 
 
 ## X-Axis Feet
-
-These support the 2040 rail that the X-Axis runs on.
-
 
 ![X-Axis Foot Idler Side](https://i.imgur.com/xP4gGSf.png)
 
