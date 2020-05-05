@@ -6,6 +6,7 @@ The 3D printed components are designed with ease of printing and assembly in min
 ###### Example videos:
 
 (Older slider versions. New videos to come)
+
 [OpenSlider 2040 V0.2 Timelapse](https://www.instagram.com/p/Bsbb4AUHvLy/)
 
 [OpenSlider 2020 V0.1](https://www.instagram.com/p/BqFpmRJnVI0/)
