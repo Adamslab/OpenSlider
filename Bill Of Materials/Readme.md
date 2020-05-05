@@ -75,6 +75,10 @@ SKR 1.3 without LCD:
 https://s.click.aliexpress.com/e/_sc29Y2
 
 
+There are a LOT of alternatives for motion control. An SKR is chosen due to how versatile the board is and because it offers turn-key support for features like sensorless homing.
+
+You can save a lot of money by opting for a different control board or creating your own controller setup. If you're the DIY type, you could create an amazing low cost control system using an ESP32. Or you use basically any 3D printer control board, or even an Arduino UNO.
+
 
 ## Motors
 Nema 17 motors are used. One motor is needed for each axis. If you just want X and Y motion, you will only need two motors. 
