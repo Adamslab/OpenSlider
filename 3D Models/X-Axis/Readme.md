@@ -22,8 +22,6 @@ There might be minor differences between the animations and the available .STL f
 
 ![2. X-Axis Belt Mount](https://i.imgur.com/64v6RcK.png)
 
-![Belt Mount](https://i.imgur.com/yMhgfwD.png)
-
 
 ## X-Axis Feet
 
