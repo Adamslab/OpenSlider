@@ -37,5 +37,3 @@ The LCD attaches using M3 bolts and M3 nuts.
 ![X-Axis Foot Idler Side](https://i.imgur.com/xP4gGSf.png)
 
 ![X-Axis Foot Motor Side](https://i.imgur.com/WBAooYf.png)
-
-![X-Axis Complete Assembly](https://i.imgur.com/tvuzWSx.png)
