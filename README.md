@@ -18,7 +18,7 @@ The slider is designed with ease of printing and assembly in mind. No support ma
 [OpenSlider V0.1 Timelapse](https://www.instagram.com/p/Bp2GQGXHDDo/)
 
 ###### Interested in supporting the development of OpenSlider?
-Join the discord! The most up to date files are available on the discord channel, and you can contact me through there.
+Join the discord!
 https://discord.gg/khKH3Cx
 
 All feedback, support and criticism is greatly appreciated.
