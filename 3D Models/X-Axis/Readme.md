@@ -9,7 +9,7 @@ From bottom to top:
 4. Bearing Mount (Grey)
 
 
-There might be minor differences between the animations and the available .STL files.
+There might be minor differences between the animations and the available .STL files. There is some tolerance in the length of bolts that you can use, so you can usually get away with a slightly longer or shorter bolt than it calls for.
 
 ## X-Axis Roller Carriage
 
