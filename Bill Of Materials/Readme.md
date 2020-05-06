@@ -68,10 +68,9 @@ TMC2130 drivers are used for the motors.
 
 A 12864 LCD (RepRapDiscount Full Graphic Smart Controller) is used for a display, and local controls with SD functionality.
 
-(Optional) An ESP8266 module can be added to provide control over WIFI
-
 12V 5A power supply.
 
+(Optional) An ESP8266 module can be added to provide control over WIFI
 
 SKR 1.3 Mainboard with LCD controller and motor drivers:
 
