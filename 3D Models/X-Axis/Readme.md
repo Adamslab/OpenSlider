@@ -9,6 +9,8 @@ From bottom to top:
 4. Bearing Mount (Grey)
 
 
+There might be minor differences between the animations and the available .STL files.
+
 ## X-Axis Roller Carriage
 
 ![1. X-Axis Roller Carriage](https://i.imgur.com/8LcjthJ.png)
