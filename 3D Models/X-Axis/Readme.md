@@ -25,6 +25,8 @@ On the arm of the roller carriage (The side with only one wheel) there is a slot
 
 ## X-Axis Belt Mount
 
+M3x10mm Bolts are used to fasten the Belt Mount to the Roller Carriage. The bolts feed through holes on the Belt Mount, and into M3 Nut traps on the Roller Carriage.
+
 ![2. X-Axis Belt Mount](https://i.imgur.com/64v6RcK.png)
 
 
