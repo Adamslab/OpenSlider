@@ -15,8 +15,8 @@ An exact list of required fasteners is coming in the future.
 * 5x M5 Nuts
 * 4x M3 T-Nuts
 * Assorted M3 bolts + nuts
-
-https://s.click.aliexpress.com/e/_sIpZ55
+* M3 bolts + nuts - https://s.click.aliexpress.com/e/_sIpZ55
+* 1x GT2 Idler Pulley - 3mm Bore (Toothed)(For X-Axis) - https://s.click.aliexpress.com/e/_dZw7ybJ
 
 ## Frame:
 
@@ -63,8 +63,14 @@ https://s.click.aliexpress.com/e/_s3uaUI
 ## Electronics:
 
 An SKR 1.3 is used as the main controller.
+
 TMC2130 drivers are used for the motors.
+
 A 12864 LCD (RepRapDiscount Full Graphic Smart Controller) is used for a display, and local controls with SD functionality.
+
+12V 5A power supply.
+
+(Optional) An ESP8266 module can be added to provide control over WIFI
 
 SKR 1.3 Mainboard with LCD controller and motor drivers:
 
@@ -74,10 +80,17 @@ SKR 1.3 without LCD:
 
 https://s.click.aliexpress.com/e/_sc29Y2
 
+ESP8266:
 
-There are a LOT of alternatives for motion control. An SKR is chosen due to how versatile the board is and because it offers turn-key support for features like sensorless homing.
+https://s.click.aliexpress.com/e/_dUlDbDn
 
-You can save a lot of money by opting for a different control board or creating your own controller setup. If you're the DIY type, you could create an amazing low cost control system using an ESP32. Or you use basically any 3D printer control board, or even an Arduino UNO.
+
+
+There are a LOT of alternatives for motion control. An SKR board is chosen due to the versatility and price to performance potential. 
+
+You can save a lot of money by opting for a different control board or creating your own controller setup. If you're the DIY type, you could create a low cost control system using an ESP32. Or you use basically any 3D printer control board, or even an Arduino Nano. 
+
+Using different stepper motor drivers also provide different benefits. The A4988 are low cost with reliable performance and 1/16 stepping. DRV8825 offer high current capability and 1/32 stepping. TMC2130 have sensorless homing, stealthchop and 1/256 stepping. TMC2209 have high current capability, improved sensorless homing and stealhchop and 1/256 stepping. There are lots of other options out there. The choice is up to you and your budget and what you want.
 
 
 ## Motors
@@ -89,7 +102,15 @@ If you expect to do vertical movements with a heavy DSLR, or rapid back and fort
 https://s.click.aliexpress.com/e/_sd4SLV
 
 
+## Software
 
+The camera slider runs on a branch of Marlin Bugfix 2.0. Marlinfw.org
+
+
+The version of Marlin included with OpenSlider is configured for the SKR1.3 and TMC2130 drivers.
+
+
+Marlin is flashed to the SKR using PlatformIO and Visual Studio Code.
 
 
 

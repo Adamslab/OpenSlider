@@ -9,7 +9,14 @@ From bottom to top:
 4. Bearing Mount (Grey)
 
 
+There might be minor differences between the animations and the available .STL files. There is some tolerance in the length of bolts that you can use, so you can usually get away with a slightly longer or shorter bolt than it calls for.
+
 ## X-Axis Roller Carriage
+
+3x M5x30mm bolts are used to attach roller wheels to the roller carriage.
+
+On the arm of the roller carriage (The side with only one wheel) there is a slot for an M3x30mm bolt used to tension the X-Axis.
+
 
 ![1. X-Axis Roller Carriage](https://i.imgur.com/8LcjthJ.png)
 
@@ -18,15 +25,17 @@ From bottom to top:
 
 ## X-Axis Belt Mount
 
-![2. X-Axis Belt Mount](https://i.imgur.com/64v6RcK.png)
+M3x10mm Bolts are used to fasten the Belt Mount to the Roller Carriage. The bolts feed through holes on the Belt Mount, and into M3 Nut traps on the Roller Carriage.
 
-![Belt Mount](https://i.imgur.com/yMhgfwD.png)
+![2. X-Axis Belt Mount](https://i.imgur.com/64v6RcK.png)
 
 
 ## X-Axis Feet
 
+The feet use M3 bolts and T-Nuts to attach to the 2040 extrusion.
+
+The LCD attaches using M3 bolts and M3 nuts.
+
 ![X-Axis Foot Idler Side](https://i.imgur.com/xP4gGSf.png)
 
 ![X-Axis Foot Motor Side](https://i.imgur.com/WBAooYf.png)
-
-![X-Axis Complete Assembly](https://i.imgur.com/tvuzWSx.png)
