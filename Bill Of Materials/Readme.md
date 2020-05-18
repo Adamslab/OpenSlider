@@ -3,9 +3,8 @@ openslider.xyz
 
 ## Printing
 
-PETG or ABS is reccomended. PLA will work but is not reccomended for the motor mounts or tensioning components.
-
-No support material is needed, but be sure to calibrate your bridging settings to get cleaner prints.
+PETG or ABS is reccomended.
+No support material is needed. Calibrating your bridging settings will help produce cleaner prints.
 
 0.2mm Layer Height, 3 to 5 perimeters and 25% infill is reccomended. Use your own judgement.
 
@@ -23,6 +22,7 @@ Development of OpenSlider is moving towards four primary fastener types: M3x10mm
 * 4x M3 T-Nuts
 * Assorted M3 bolts + hexagonal nuts https://s.click.aliexpress.com/e/_sIpZ55
 * 1x GT2 Idler Pulley - 3mm Bore (Toothed)(For X-Axis) - https://s.click.aliexpress.com/e/_dZw7ybJ
+
 
 ## Frame:
 
@@ -84,12 +84,20 @@ ESP8266: https://s.click.aliexpress.com/e/_dUlDbDn
 
 
 
-There are a LOT of alternatives for motion control. An SKR board is chosen due to the versatility and price to performance potential. You will need to make adjustments and might lose certain features if you opt for a different control scheme.
+There are many alternatives for motion control. An SKR board is chosen due to the versatility and price point.
 
-Using different stepper motor drivers also provide different benefits. The A4988 are low cost with reliable performance and 1/16 stepping. DRV8825 offer high current capability and 1/32 stepping. TMC2130 have sensorless homing, stealthchop and 1/256 stepping. TMC2209 have high current capability, improved sensorless homing and stealhchop and 1/256 stepping. There are lots of other options out there. The choice is up to you and your budget and what you want.
+Different stepper motor drivers provide different benefits. 
+
+* A4988 are low cost with reliable performance and 1/16 stepping
+* DRV8825 offer high current capability and 1/32 stepping. 
+* TMC2130 have sensorless homing, stealthchop and 1/256 stepping. 
+* TMC2209 have higher current capability, improved sensorless homing and stealhchop and 1/256 stepping. 
+
+There are lots of other options out there. The choice is up to you, your budget and what features you want.
 
 
 ## Motors
+
 Nema 17 motors are used. One motor is needed for each axis. If you just want X and Y motion, you will only need two motors.
 
 If you expect to do vertical movements with a DSLR, or rapid back and forth movements with high acceleration, 42Ncm or higher is reccomended. For a cellphone, action camera or PiCamera you can get away with 13-20Ncm motors.
