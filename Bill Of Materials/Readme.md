@@ -1,12 +1,19 @@
 # Materials List
+openslider.xyz
 
 ## Printing
 
-PETG or ABS is reccomended. The tensioning mechanisms and motor mount can warp over time if printed with PLA.
+PETG or ABS is reccomended. PLA will work but is not reccomended for the motor mounts or tensioning components.
+
+No support material is needed, but be sure to calibrate your bridging settings to get cleaner prints.
+
+0.2mm Layer Height, 3 to 5 perimeters and 25% infill is reccomended. Use your own judgement.
 
 ## Nuts/Bolts:
 
 An exact list of required fasteners is coming in the future.
+
+Development of OpenSlider is moving towards four primary fastener types: M3x10mm, M3x20mm, M3x30mm and M5x30mm.
 
 
 * 5x M5x30mm Bolts
@@ -14,8 +21,7 @@ An exact list of required fasteners is coming in the future.
 * 1x M3x15mm Bolt
 * 5x M5 Nuts
 * 4x M3 T-Nuts
-* Assorted M3 bolts + nuts
-* M3 bolts + nuts - https://s.click.aliexpress.com/e/_sIpZ55
+* Assorted M3 bolts + hexagonal nuts https://s.click.aliexpress.com/e/_sIpZ55
 * 1x GT2 Idler Pulley - 3mm Bore (Toothed)(For X-Axis) - https://s.click.aliexpress.com/e/_dZw7ybJ
 
 ## Frame:
@@ -24,7 +30,7 @@ The X-Axis runs along a V-Sot 2040 aluminum extrusion. The longer the extrusion,
 
 The slider assembly takes approximatly 120mm off of the travel distance.
 
-So a 500mm extrusion will give you approximately 380mm of travel.
+A 500mm extrusion will give you approximately 380mm of travel.
 
 https://s.click.aliexpress.com/e/_sMJLWJ
 
@@ -39,11 +45,13 @@ For T-Slot rail,  3x Option B or similar roller wheels are used: https://s.click
 
 
 ## GT2 Belt
-GT2 6mm belt is used.
-The length of belt you will need for the X-Axis is double the length of the extrusion that you're using for the X-Axis plus 50mm.
-So for a 500mm extrusion, you need 1050mm of belt to have enough.
 
-The Y-Axis and Z-Axis use 250mm GT2 belt loops. The tensioning system will work with 250mm to 264mm long belt loops.
+GT2 6mm belt is used.
+The length of belt you will need for the X-Axis is double the length of the extrusion that you're using for the X-Axis plus ~50mm.
+So for a 500mm X-Axis, you need approximately 1050mm of belt to have enough.
+
+The Y-Axis and Z-Axis uses GT2 belt loops.
+The tensioning system will work with 250mm to 264mm belt loops. 250mm is reccomended.
 
 https://s.click.aliexpress.com/e/_rQ35Lp
 
@@ -53,18 +61,14 @@ https://s.click.aliexpress.com/e/_sOoTyx
 
 ## Bearings:
 
-Bearings used are 608RS. 8mm inner diameter, 22mm outer diameter, 7mm thick.
+Bearings used are 608RS. 8mm ID, 22mm OD
 
-Like these:
-
-https://s.click.aliexpress.com/e/_s3uaUI
+Like these: https://s.click.aliexpress.com/e/_s3uaUI
 
 
 ## Electronics:
 
-An SKR 1.3 is used as the main controller.
-
-TMC2130 drivers are used for the motors.
+For the main branch, an SKR 1.3 is used as the main controller and TMC2130 drivers are used for the motors.
 
 A 12864 LCD (RepRapDiscount Full Graphic Smart Controller) is used for a display, and local controls with SD functionality.
 
@@ -72,32 +76,23 @@ A 12864 LCD (RepRapDiscount Full Graphic Smart Controller) is used for a display
 
 (Optional) An ESP8266 module can be added to provide control over WIFI
 
-SKR 1.3 Mainboard with LCD controller and motor drivers:
+SKR 1.3 Mainboard with LCD controller and motor drivers: https://s.click.aliexpress.com/e/_sN61d8
 
-https://s.click.aliexpress.com/e/_sN61d8
+SKR 1.3 without LCD: https://s.click.aliexpress.com/e/_sc29Y2
 
-SKR 1.3 without LCD:
-
-https://s.click.aliexpress.com/e/_sc29Y2
-
-ESP8266:
-
-https://s.click.aliexpress.com/e/_dUlDbDn
+ESP8266: https://s.click.aliexpress.com/e/_dUlDbDn
 
 
 
-There are a LOT of alternatives for motion control. An SKR board is chosen due to the versatility and price to performance potential. 
-
-You can save a lot of money by opting for a different control board or creating your own controller setup. If you're the DIY type, you could create a low cost control system using an ESP32. Or you use basically any 3D printer control board, or even an Arduino Nano. 
+There are a LOT of alternatives for motion control. An SKR board is chosen due to the versatility and price to performance potential. You will need to make adjustments and might lose certain features if you opt for a different control scheme.
 
 Using different stepper motor drivers also provide different benefits. The A4988 are low cost with reliable performance and 1/16 stepping. DRV8825 offer high current capability and 1/32 stepping. TMC2130 have sensorless homing, stealthchop and 1/256 stepping. TMC2209 have high current capability, improved sensorless homing and stealhchop and 1/256 stepping. There are lots of other options out there. The choice is up to you and your budget and what you want.
 
 
 ## Motors
-Nema 17 motors are used. One motor is needed for each axis. If you just want X and Y motion, you will only need two motors. 
-You do not need very powerful motors for most use cases. 
+Nema 17 motors are used. One motor is needed for each axis. If you just want X and Y motion, you will only need two motors.
 
-If you expect to do vertical movements with a heavy DSLR, or rapid back and forth movements with high acceleration, invest in more powerful motors. For a USB camera, cellphone, action camera or PiCamera you can get away with pancake motors.
+If you expect to do vertical movements with a DSLR, or rapid back and forth movements with high acceleration, 42Ncm or higher is reccomended. For a cellphone, action camera or PiCamera you can get away with 13-20Ncm motors.
 
 https://s.click.aliexpress.com/e/_sd4SLV
 
@@ -106,11 +101,10 @@ https://s.click.aliexpress.com/e/_sd4SLV
 
 The camera slider runs on a branch of Marlin Bugfix 2.0. Marlinfw.org
 
+The version of Marlin included with OpenSlider is configured for the SKR1.3 and TMC2130 drivers. If you are using a different control board or stepper drivers you will have to manually configure Marlin to support your hardware.
 
-The version of Marlin included with OpenSlider is configured for the SKR1.3 and TMC2130 drivers.
 
-
-Marlin is flashed to the SKR using PlatformIO and Visual Studio Code.
+It is reccomended to flash Marlin to the SKR using PlatformIO and Visual Studio Code.
 
 
 
