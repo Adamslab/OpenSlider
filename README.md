@@ -1,7 +1,9 @@
-## OpenSlider - OpenSlider.xyz
-OpenSlider is a motorized slider with multiple axis of rotation, built using common hardware and 3D printed components.
+## OpenSlider.xyz
+OpenSlider XYZ is a motorized slider with multiple axis of rotation, built using common hardware and 3D printed components.
 
-The slider is designed with ease of printing and assembly in mind. No support material needed. PETG is reccomended.
+The goal of OpenSlider is to provide a robust, open source slider platform to fill a variety of needs at a low price point.
+
+The slider is designed with ease of printing and assembly in mind. No support material needed. PETG or ABS is reccomended.
 
 
 
