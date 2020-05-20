@@ -11,7 +11,7 @@ An exact list of required fasteners is coming in the future.
 
 * 5x M5x30mm Bolts
 * 3x M3x30mm Bolts
-* 1x M3x15mm Bolt
+* 1x M3x20mm Bolt
 * 5x M5 Nuts
 * 4x M3 T-Nuts
 * Assorted M3 bolts + nuts
