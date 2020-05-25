@@ -6,7 +6,7 @@
 PETG or ABS is reccomended.
 No support material is needed. Calibrating your bridging settings will help produce cleaner prints.
 
-0.2mm Layer Height, 3 to 5 perimeters and 25% infill is reccomended. Use your own judgement.
+0.15mm or 0.2mm Layer Height, 3 to 5 perimeters and 25% infill is reccomended. Use your own judgement.
 
 ## Nuts/Bolts:
 
