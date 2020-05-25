@@ -1,6 +1,6 @@
 # X-Axis
 
-![2040 Roller Carriage Assembly v231_1](https://user-images.githubusercontent.com/45019189/82780451-993f4980-9e2d-11ea-8dbe-fef6a7bc07ef.gif)
+![2040 Roller Carriage Assembly v231](https://user-images.githubusercontent.com/45019189/82780507-c7bd2480-9e2d-11ea-93b3-9940a6839076.gif)
 
 ![X-Axis Assembly Overview](https://user-images.githubusercontent.com/45019189/82777123-98091f00-9e23-11ea-84a3-4b63476441fc.jpg)
 
