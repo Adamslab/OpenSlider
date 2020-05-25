@@ -21,11 +21,11 @@ The slider is designed with ease of printing and assembly in mind. No support ma
 ###### Interested in supporting the development of OpenSlider?
 
 Join the discord!
-All feedback, support and criticism is greatly appreciated.
+All feedback is greatly appreciated.
 
 https://discord.gg/khKH3Cx
 
 
 
 
-[Patreon](https://www.patreon.com/adamslaboratory)
+[Support The Project Through Patreon](https://www.patreon.com/adamslaboratory)
