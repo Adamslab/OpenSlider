@@ -5,13 +5,11 @@
 
 PETG or ABS is reccomended.
 No support material is needed. Calibrating your bridging settings will help produce cleaner prints.
-
 0.15mm or 0.2mm Layer Height, 3 to 5 perimeters and 25% infill is reccomended. Use your own judgement.
 
 ## Nuts/Bolts:
 
 An exact list of required fasteners is coming in the future.
-
 Development of OpenSlider is moving towards four primary fastener types: M3x10mm, M3x20mm, M3x30mm and M5x30mm.
 
 
@@ -40,7 +38,9 @@ https://s.click.aliexpress.com/e/_sMJLWJ
 
 3x V-Slot or T-Slot roller wheels are used for the X-Axis roller carriage.
 
-For T-Slot rail,  3x Option B or similar roller wheels are used: https://s.click.aliexpress.com/e/_rJTbgF
+For T-Slot rail,  3x Option B or similar roller wheels are used:
+
+https://s.click.aliexpress.com/e/_rJTbgF
 
 
 
@@ -50,10 +50,10 @@ GT2 6mm belt is used.
 The length of belt you will need for the X-Axis is double the length of the extrusion that you're using for the X-Axis plus ~50mm.
 So for a 500mm X-Axis, you need approximately 1050mm of belt to have enough.
 
-The Y-Axis and Z-Axis uses GT2 belt loops.
-The tensioning system will work with 250mm to 264mm belt loops. 250mm is reccomended.
-
 https://s.click.aliexpress.com/e/_rQ35Lp
+
+The Y-Axis and Z-Axis uses GT2 belt loops.
+The tensioning system will work with 250mm to 264mm belt loops.
 
 https://s.click.aliexpress.com/e/_sOoTyx
 
@@ -100,7 +100,7 @@ There are lots of other options out there. The choice is up to you, your budget 
 
 Nema 17 motors are used. One motor is needed for each axis. If you just want X and Y motion, you will only need two motors.
 
-If you expect to do vertical movements with a DSLR, or rapid back and forth movements with high acceleration, 42Ncm or higher is reccomended. For a cellphone, action camera or PiCamera you can get away with 13-20Ncm motors.
+If you expect to do vertical movements with a DSLR, or rapid back and forth movements with high acceleration, 42Ncm or higher is reccomended. For a cellphone, action camera or PiCamera you can use weaker motors.
 
 https://s.click.aliexpress.com/e/_sd4SLV
 
@@ -111,5 +111,6 @@ The camera slider runs on a branch of Marlin Bugfix 2.0. Marlinfw.org
 
 The version of Marlin included with OpenSlider is configured for the SKR1.3 and TMC2130 drivers. If you are using a different control board or stepper drivers you will have to manually configure Marlin to support your hardware.
 
-
 It is reccomended to flash Marlin to the SKR using PlatformIO and Visual Studio Code.
+
+https://code.visualstudio.com/
