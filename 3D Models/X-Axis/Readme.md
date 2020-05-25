@@ -1,7 +1,4 @@
 ## X-Axis
-
-![V0.3 Carriage Assembly](https://giant.gfycat.com/WickedColorlessHochstettersfrog.gif)
-
 From bottom to top:
 1. Roller Carriage (Grey)
 2. Belt Mount (Red)
@@ -17,18 +14,9 @@ There might be minor differences between the animations and the available .STL f
 
 On the arm of the roller carriage (The side with only one wheel) there is a slot for an M3x30mm bolt used to tension the X-Axis.
 
-
-![1. X-Axis Roller Carriage](https://i.imgur.com/8LcjthJ.png)
-
-![Wheels on Roller Carriage](https://i.imgur.com/8PWVwMF.png)
-
-
 ## X-Axis Belt Mount
 
 M3x10mm Bolts are used to fasten the Belt Mount to the Roller Carriage. The bolts feed through holes on the Belt Mount, and into M3 Nut traps on the Roller Carriage.
-
-![2. X-Axis Belt Mount](https://i.imgur.com/64v6RcK.png)
-
 
 ## X-Axis Feet
 
