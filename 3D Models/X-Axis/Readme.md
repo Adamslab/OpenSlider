@@ -1,6 +1,6 @@
 # X-Axis
 
-![OpenSlider Overview 1](https://user-images.githubusercontent.com/45019189/82775308-b9670c80-9e1d-11ea-874d-32a604840e1f.jpg)
+![2040 Roller Carriage Assembly v231_1](https://user-images.githubusercontent.com/45019189/82780451-993f4980-9e2d-11ea-8dbe-fef6a7bc07ef.gif)
 
 ![X-Axis Assembly Overview](https://user-images.githubusercontent.com/45019189/82777123-98091f00-9e23-11ea-84a3-4b63476441fc.jpg)
 
