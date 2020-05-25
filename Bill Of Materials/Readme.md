@@ -5,7 +5,9 @@
 <img src="https://user-images.githubusercontent.com/45019189/82775396-f59a6d00-9e1d-11ea-9ca9-89be5ede4bb7.jpg" width="700">
 
 The majority of the slider assembly is 3D printed. PETG or ABS is reccomended.
+
 No support material is needed. Calibrating your bridging settings will help produce cleaner prints.
+
 0.15mm or 0.2mm Layer Height, 3 to 5 perimeters and 25% infill is reccomended. Use your own judgement.
 
 ## Nuts/Bolts:
