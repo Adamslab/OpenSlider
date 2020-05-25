@@ -1,7 +1,6 @@
 # X-Axis
 
 ![2040 Roller Carriage Assembly v231_3](https://user-images.githubusercontent.com/45019189/82781569-811cf980-9e30-11ea-981c-004547658bb5.gif)
-(Animation also shows some Y-Axis components)
 
 ![X-Axis Assembly Overview](https://user-images.githubusercontent.com/45019189/82777123-98091f00-9e23-11ea-84a3-4b63476441fc.jpg)
 
