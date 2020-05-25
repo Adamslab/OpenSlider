@@ -1,5 +1,7 @@
 # X-Axis
 
+![OpenSlider Overview 1](https://user-images.githubusercontent.com/45019189/82775308-b9670c80-9e1d-11ea-874d-32a604840e1f.jpg)
+
 ![X-Axis Assembly Overview](https://user-images.githubusercontent.com/45019189/82777123-98091f00-9e23-11ea-84a3-4b63476441fc.jpg)
 
 There might be minor differences between the images and the available .STL files. There is some tolerance in the length of bolts that you can use, so you can usually get away with a slightly longer or shorter bolt than it calls for.
