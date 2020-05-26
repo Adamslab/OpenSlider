@@ -63,13 +63,15 @@ https://s.click.aliexpress.com/e/_sOoTyx
 
 
 
-## Bearings:
+## Bearings & Idler:
 
 Bearings used are 608RS. 8mm ID, 22mm OD
 
 The Y-Axis and Z-Axis use 3 to 4 bearings each (Depending on belt loop length)
 
 Like these: https://s.click.aliexpress.com/e/_s3uaUI
+
+The X-Axis uses a 3mm bore idler pulley: https://s.click.aliexpress.com/e/_dZw7ybJ
 
 
 ## Electronics:
