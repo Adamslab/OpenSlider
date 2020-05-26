@@ -22,7 +22,8 @@ Development of OpenSlider is moving towards four primary fastener types: M3x10mm
 * 5x M5 Nuts
 * 4x M3 T-Nuts
 * Assorted M3 bolts + hexagonal nuts https://s.click.aliexpress.com/e/_sIpZ55
-* 1x GT2 Idler Pulley - 3mm Bore (Toothed)(For X-Axis) - https://s.click.aliexpress.com/e/_dZw7ybJ
+* 1x GT2 Idler Pulley - (3mm Bore - 20 Teeth)(For X-Axis) - http://s.click.aliexpress.com/e/_d8NUSUX
+
 
 
 ## X-Axis Rail:
@@ -71,7 +72,8 @@ The Y-Axis and Z-Axis use 3 to 4 bearings each (Depending on belt loop length)
 
 Like these: https://s.click.aliexpress.com/e/_s3uaUI
 
-The X-Axis uses a 3mm bore idler pulley: https://s.click.aliexpress.com/e/_dZw7ybJ
+The X-Axis uses a 3mm bore 20 tooth idler pulley: http://s.click.aliexpress.com/e/_d8NUSUX
+
 
 
 ## Electronics:
