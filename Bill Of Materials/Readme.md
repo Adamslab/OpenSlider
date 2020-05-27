@@ -20,9 +20,11 @@ Development of OpenSlider is moving towards four primary fastener types: M3x10mm
 * 3x M3x30mm Bolts
 * 1x M3x20mm Bolt
 * 5x M5 Nuts
-* 4x M3 T-Nuts
+* 5x M3 T-Nuts
 * Assorted M3 bolts + hexagonal nuts https://s.click.aliexpress.com/e/_sIpZ55
-* 1x GT2 Idler Pulley - (3mm Bore - 20 Teeth)(For X-Axis) - http://s.click.aliexpress.com/e/_d8NUSUX
+* 1x GT2 Idler Pulley - (3mm Bore - 20 Teeth)(For X-Axis Idler) - http://s.click.aliexpress.com/e/_d8NUSUX
+* 3x GT2 Timing Gear (5mm Bore - Need 1 for each axis of motion) - http://s.click.aliexpress.com/e/_BfZtUX7v
+
 
 
 
