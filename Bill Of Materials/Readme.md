@@ -20,14 +20,17 @@ Development of OpenSlider is moving towards four primary fastener types: M3x10mm
 * 3x M3x30mm Bolts
 * 1x M3x20mm Bolt
 * 5x M5 Nuts
-* 4x M3 T-Nuts
+* 5x M3 T-Nuts
 * Assorted M3 bolts + hexagonal nuts https://s.click.aliexpress.com/e/_sIpZ55
-* 1x GT2 Idler Pulley - 3mm Bore (Toothed)(For X-Axis) - https://s.click.aliexpress.com/e/_dZw7ybJ
+* 1x GT2 Idler Pulley - (3mm Bore - 20 Teeth)(For X-Axis Idler) - http://s.click.aliexpress.com/e/_d8NUSUX
+* 3x GT2 Timing Gear (5mm Bore - Need 1 for each axis of motion) - http://s.click.aliexpress.com/e/_BfZtUX7v
+
+
 
 
 ## X-Axis Rail:
 
-The X-Axis runs along a V-Sot 2040 aluminum extrusion. The longer the extrusion, the more travel distance you will have.
+The X-Axis runs along a V-Slot 2040 aluminum extrusion. The longer the extrusion, the more travel distance you will have.
 
 The slider assembly takes approximatly 120mm off of the travel distance.
 
@@ -39,12 +42,11 @@ https://s.click.aliexpress.com/e/_sMJLWJ
 
 ## Roller Carriage Wheels
 
-3x V-Slot or T-Slot roller wheels are used for the X-Axis roller carriage.
+3x V-Slot roller wheels are used for the X-Axis roller carriage.
 
-For T-Slot rail,  3x Option B or similar roller wheels are used:
+3x Option B or similar roller wheels are used:
 
 https://s.click.aliexpress.com/e/_rJTbgF
-
 
 
 ## GT2 Belt
@@ -53,29 +55,36 @@ GT2 6mm belt is used.
 The length of belt you will need for the X-Axis is double the length of the extrusion that you're using for the X-Axis plus ~50mm.
 So for a 500mm X-Axis, you need approximately 1050mm of belt to have enough.
 
-https://s.click.aliexpress.com/e/_rQ35Lp
+http://s.click.aliexpress.com/e/_d9epYdt
 
 The Y-Axis and Z-Axis uses GT2 belt loops.
 The tensioning system will work with 250mm to 264mm belt loops.
+
+https://s.click.aliexpress.com/e/_rQ35Lp
 
 https://s.click.aliexpress.com/e/_sOoTyx
 
 
 
-## Bearings:
+## Bearings & Idler:
 
 Bearings used are 608RS. 8mm ID, 22mm OD
 
+The Y-Axis and Z-Axis use 3 to 4 bearings each (Depending on belt loop length)
+
 Like these: https://s.click.aliexpress.com/e/_s3uaUI
+
+The X-Axis uses a 3mm bore 20 tooth idler pulley: http://s.click.aliexpress.com/e/_d8NUSUX
+
 
 
 ## Electronics:
 
-For the main branch, an SKR 1.3 is used as the main controller and TMC2130 drivers are used for the motors.
+For the main branch, an SKR 1.3 is used as the controller with TMC2130 stepper motor drivers.
 
-A 12864 LCD (RepRapDiscount Full Graphic Smart Controller) is used for a display, and local controls with SD functionality.
+A 12864 LCD (RepRapDiscount Full Graphic Smart Controller) is used for a display with local controls with SD functionality.
 
-12V 5A power supply.
+12V 5A power supply to power the slider. 5 Amps is the suggested minimum for 3-axis motion.
 
 (Optional) An ESP8266 module can be added to provide control over WIFI
 

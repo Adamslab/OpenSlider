@@ -28,4 +28,4 @@ https://discord.gg/khKH3Cx
 
 
 
-[Support The Project Through Patreon](https://www.patreon.com/adamslaboratory)
+[Support the project through Patreon](https://www.patreon.com/adamslaboratory)
