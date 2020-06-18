@@ -16,7 +16,7 @@ You will have to force the M3 nuts into place. This is normal.
 The M3 bolt holes are oversized by at least 0.2mm.
 If you're finding that the bolt holes are coming out undersized, you need to calibrate your printer or adjust your horizontal expansion settings. You can also just ream the holes with an M3 drillbit.
 
-See something you want changed? Do it yourself; the F360 files are included on the Github.
+See something you want changed? Do it yourself. There is a .STEP file of the entire slider assembly included in the 3D Models directory.
 
 
 ## Nuts/Bolts:
