@@ -38,6 +38,8 @@ Development of OpenSlider is moving towards four primary fastener types: M3x10mm
 * 1x GT2 Idler Pulley - (3mm Bore - 20 Teeth)(For X-Axis Idler) - http://s.click.aliexpress.com/e/_d8NUSUX
 * 3x GT2 Timing Gear (5mm Bore - Need 1 for each axis of motion) - http://s.click.aliexpress.com/e/_BfZtUX7v
 
+M3 washers (7mm OD) are suggested to help prevent deformation of printed parts but are not required.
+
 
 
 
