@@ -10,7 +10,7 @@ No support material is needed. Calibrating your bridging and horizontal expansio
 
 0.15mm or 0.2mm Layer Height, 3 to 5 perimeters and 25% infill is reccomended. Use your own judgement.
 
-All of the M3 nut traps are slightly undersized, to grab onto the nuts to stop them from falling out during assembly.
+All of the M3 nut traps are undersized by ~0.1mm, to grab onto the nuts to stop them from falling out during assembly.
 You will have to force the M3 nuts into place. This is normal.
 
 The M3 and M5 bolt holes are oversized by at least 0.2mm.
