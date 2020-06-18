@@ -11,7 +11,9 @@ No support material is needed. Calibrating your bridging and horizontal expansio
 0.15mm or 0.2mm Layer Height, 3 to 5 perimeters and 25% infill is reccomended. Use your own judgement.
 
 All of the M3 nut traps are undersized by ~0.1mm, to grab onto the nuts to stop them from falling out during assembly.
-You will have to force the M3 nuts into place. This is normal.
+You will have to force the M3 nuts into place. This is normal. 
+If your printer is poorly calibrated, you might have to use a soldering iron to set the M3 nuts.
+
 
 The M3 and M5 bolt holes are oversized by at least 0.2mm.
 If you're finding that the bolt holes are coming out undersized, you need to calibrate your printer or adjust your horizontal expansion settings. You can also size the holes with a drillbit.
