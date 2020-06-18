@@ -18,8 +18,7 @@ If you're finding that the bolt holes are coming out undersized, you need to cal
 
 See something you want changed? Do it yourself.
 There is a .STEP file of the entire slider assembly included in the 3D Models directory.
-The slider assembly is 100% free with no guarantees or warranty of any kind. 
-The assembly is subject to change at my own discretion.
+The slider assembly is 100% free with no guarantees or warranty of any kind.
 
 
 ## Nuts/Bolts:
