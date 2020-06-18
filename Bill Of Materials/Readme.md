@@ -133,3 +133,6 @@ The version of Marlin included with OpenSlider is configured for the SKR1.3 and 
 It is reccomended to flash Marlin to the SKR using PlatformIO and Visual Studio Code.
 
 https://code.visualstudio.com/
+
+
+If you decide to use an Arduino UNO/Nano or a similar lower cost setup, you will want to use GRBL1.1 for control instead of Marlin.
