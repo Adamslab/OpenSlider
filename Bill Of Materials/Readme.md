@@ -6,9 +6,16 @@
 
 The majority of the slider assembly is 3D printed. PETG or ABS is reccomended.
 
-No support material is needed. Calibrating your bridging settings will help produce cleaner prints.
+No support material is needed. Calibrating your bridging and horizontal expansion settings will help produce cleaner prints.
 
 0.15mm or 0.2mm Layer Height, 3 to 5 perimeters and 25% infill is reccomended. Use your own judgement.
+
+All of the M3 nut traps are slightly undersized, to grab onto the nuts to stop them from falling out during assembly.
+You will have to force the M3 nuts into place. This is normal.
+
+The M3 bolt holes are oversized by at least 0.2mm.
+If you're finding that the bolt holes are coming out undersized, you need to calibrate your printer or adjust your horizontal expansion settings. You can also just ream the holes with an M3 drillbit.
+
 
 ## Nuts/Bolts:
 
@@ -30,14 +37,14 @@ Development of OpenSlider is moving towards four primary fastener types: M3x10mm
 
 ## X-Axis Rail:
 
-The X-Axis runs along a V-Slot 2040 aluminum extrusion. The longer the extrusion, the more travel distance you will have.
+The X-Axis runs along a V-Slot 2040 aluminum extrusion. You can put two 2020 extrusions together if you do not have a 2040 extrusion.
+The longer the extrusion, the more travel distance you will have.
 
 The slider assembly takes approximatly 120mm off of the travel distance.
 
 A 500mm extrusion will give you approximately 380mm of travel.
 
 https://s.click.aliexpress.com/e/_sMJLWJ
-
 
 
 ## Roller Carriage Wheels
