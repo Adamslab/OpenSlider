@@ -6,9 +6,22 @@
 
 The majority of the slider assembly is 3D printed. PETG or ABS is reccomended.
 
-No support material is needed. Calibrating your bridging settings will help produce cleaner prints.
+No support material is needed. Calibrating your bridging and horizontal expansion settings will help produce cleaner prints.
 
 0.15mm or 0.2mm Layer Height, 3 to 5 perimeters and 25% infill is reccomended. Use your own judgement.
+
+All of the M3 nut traps are undersized by ~0.1mm, to grab onto the nuts to stop them from falling out during assembly.
+You will have to force the M3 nuts into place. This is normal. 
+If your printer is poorly calibrated, you might have to use a soldering iron to set the M3 nuts.
+
+
+The M3 and M5 bolt holes are oversized by at least 0.2mm.
+If you're finding that the bolt holes are coming out undersized, you need to calibrate your printer or adjust your horizontal expansion settings. You can also size the holes with a drillbit.
+
+See something you want changed? Do it yourself.
+There is a .STEP file of the entire slider assembly included in the 3D Models directory.
+The slider assembly is free forever with no guarantees or warranty of any kind.
+
 
 ## Nuts/Bolts:
 
@@ -25,19 +38,21 @@ Development of OpenSlider is moving towards four primary fastener types: M3x10mm
 * 1x GT2 Idler Pulley - (3mm Bore - 20 Teeth)(For X-Axis Idler) - http://s.click.aliexpress.com/e/_d8NUSUX
 * 3x GT2 Timing Gear (5mm Bore - Need 1 for each axis of motion) - http://s.click.aliexpress.com/e/_BfZtUX7v
 
+M3 washers (7mm OD) are suggested to help prevent deformation of printed parts but are not required.
+
 
 
 
 ## X-Axis Rail:
 
-The X-Axis runs along a V-Slot 2040 aluminum extrusion. The longer the extrusion, the more travel distance you will have.
+The X-Axis runs along a V-Slot 2040 aluminum extrusion. You can put two 2020 extrusions together if you do not have a 2040 extrusion.
+The longer the extrusion, the more travel distance you will have.
 
 The slider assembly takes approximatly 120mm off of the travel distance.
 
 A 500mm extrusion will give you approximately 380mm of travel.
 
 https://s.click.aliexpress.com/e/_sMJLWJ
-
 
 
 ## Roller Carriage Wheels
@@ -126,3 +141,6 @@ The version of Marlin included with OpenSlider is configured for the SKR1.3 and 
 It is reccomended to flash Marlin to the SKR using PlatformIO and Visual Studio Code.
 
 https://code.visualstudio.com/
+
+
+If you decide to use an Arduino UNO/Nano or a similar lower cost setup, you will want to use GRBL1.1 for control instead of Marlin.
