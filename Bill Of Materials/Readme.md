@@ -18,7 +18,7 @@ If your printer is poorly calibrated, you might have to use a soldering iron to 
 The M3 and M5 bolt holes are oversized by at least 0.2mm.
 If you're finding that the bolt holes are coming out undersized, you need to calibrate your printer or adjust your horizontal expansion settings. You can also size the holes with a drillbit.
 
-See something you want changed? Do it yourself.
+See something you want changed? You can do it yourself using the included .STEP and .F3D files.
 There is a .STEP file of the entire slider assembly included in the 3D Models directory.
 The slider assembly is free forever with no guarantees or warranty of any kind.
 
