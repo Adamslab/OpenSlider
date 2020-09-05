@@ -1,5 +1,9 @@
 # Materials List
 
+Build tutorial: 
+
+https://www.youtube.com/watch?v=6d8_oJsUrao (Work in progress)
+
 
 ## Printing The Frame
 <img src="https://user-images.githubusercontent.com/45019189/82775396-f59a6d00-9e1d-11ea-9ca9-89be5ede4bb7.jpg" width="700">
