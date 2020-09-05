@@ -11,6 +11,9 @@ The slider is designed with ease of printing and assembly in mind. No support ma
 
 ![2040 Roller Carriage Assembly v231_4](https://user-images.githubusercontent.com/45019189/82782271-5633a500-9e32-11ea-8445-bd254e66c91a.gif)
 
+Build tutorial:
+
+https://www.youtube.com/watch?v=6d8_oJsUrao (Work in progress video)
 
 ###### Example videos:
 
