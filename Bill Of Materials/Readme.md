@@ -1,6 +1,8 @@
 # Materials List
 
-Build tutorial: https://www.youtube.com/watch?v=6d8_oJsUrao (Work in progress)
+Build tutorial: 
+
+https://www.youtube.com/watch?v=6d8_oJsUrao (Work in progress)
 
 
 ## Printing The Frame
