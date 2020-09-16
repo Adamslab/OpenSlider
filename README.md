@@ -6,7 +6,7 @@ OpenSlider XYZ is a motorized slider with multiple axis of rotation, built using
 
 The goal of OpenSlider is to provide a robust, open source slider platform to fill a variety of needs at a low price point.
 
-The slider is designed with ease of printing and assembly in mind. No support material needed. PETG or ABS is reccomended.
+The slider is designed with ease of printing and assembly in mind. No support material needed. PETG or ABS is recomended.
 
 
 ![2040 Roller Carriage Assembly v231_4](https://user-images.githubusercontent.com/45019189/82782271-5633a500-9e32-11ea-8445-bd254e66c91a.gif)
