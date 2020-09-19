@@ -25,4 +25,4 @@ All feedback and contributions are greatly appreciated.
 
 
 
-[Support the project and future projects through Patreon](https://www.patreon.com/adamslaboratory)
+[Patreon](https://www.patreon.com/adamslaboratory)
