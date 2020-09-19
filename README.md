@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=6d8_oJsUrao
 
 Join the discord! https://discord.gg/khKH3Cx
 
-All feedback and contributions are greatly appreciated.
+Any feedback is greatly appreciated.
 
 
 
