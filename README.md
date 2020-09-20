@@ -4,31 +4,25 @@
 
 OpenSlider XYZ is a motorized slider with multiple axis of rotation, built using common hardware and 3D printed components.
 
-The goal of OpenSlider is to provide a robust, open source slider platform to fill a variety of needs at a low price point.
+The goal of OpenSlider is to provide a robust, open source programmable slider platform to fill a variety of needs for hobbyists.
 
-The slider is designed with ease of printing and assembly in mind. No support material needed. PETG or ABS is reccomended.
-
+The slider is designed with ease of printing and assembly in mind. No support material is needed. PETG or ABS is recomended.
 
 ![2040 Roller Carriage Assembly v231_4](https://user-images.githubusercontent.com/45019189/82782271-5633a500-9e32-11ea-8445-bd254e66c91a.gif)
 
-Build tutorial:
+Build tutorial: (Work in progress video)
+https://www.youtube.com/watch?v=6d8_oJsUrao 
 
-https://www.youtube.com/watch?v=6d8_oJsUrao (Work in progress video)
+#### Example videos:
 
-###### Example videos:
+[V0.3](https://www.instagram.com/p/CFU9hZHjh4D/) - [V0.3](https://www.instagram.com/p/CBXKDw_DIsY/) - [V0.3](https://www.instagram.com/p/CBQC0gHDRkP/) - [V0.2](https://www.instagram.com/p/Bsbb4AUHvLy/) - [V0.1](https://www.instagram.com/p/BqFpmRJnVI0/) - [V0.1](https://www.instagram.com/p/BqFVQTXnpN9/) - [V0.1](https://www.instagram.com/p/BqJI3UbnU7M/) - [V0.1](https://www.instagram.com/p/Bp2GQGXHDDo/)
 
-(Older slider versions. New videos to come)
+#### Interested in supporting the development of OpenSlider?
 
-[V0.2](https://www.instagram.com/p/Bsbb4AUHvLy/) - [V0.1](https://www.instagram.com/p/BqFpmRJnVI0/) - [V0.1](https://www.instagram.com/p/BqFVQTXnpN9/) - [V0.1](https://www.instagram.com/p/BqJI3UbnU7M/) - [V0.1](https://www.instagram.com/p/Bp2GQGXHDDo/)
+Join the discord! https://discord.gg/khKH3Cx
 
-###### Interested in supporting the development of OpenSlider?
-
-Join the discord!
-All feedback is greatly appreciated.
-
-https://discord.gg/khKH3Cx
+Any feedback is greatly appreciated.
 
 
 
-
-[Support the project through Patreon](https://www.patreon.com/adamslaboratory)
+[Patreon](https://www.patreon.com/adamslaboratory)
