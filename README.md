@@ -1,4 +1,4 @@
-## OpenSlider.xyz
+## Openslider XYZ
 ![GithubGIFPt3](https://user-images.githubusercontent.com/45019189/82838573-02ad6f80-9ea3-11ea-948f-28d909c240e9.gif) ![GithubGIFPt4](https://user-images.githubusercontent.com/45019189/82838984-51a7d480-9ea4-11ea-8838-1f60a102015d.gif)
 
 
